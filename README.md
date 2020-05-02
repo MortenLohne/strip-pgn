@@ -14,8 +14,8 @@ strip-pgn {--strip-comments|--move-list|--move-strings| }
 The PGN itself is read from standard input.
 
 * `--strip-comments`: Remove all comments.
-* `--move-list`: Remove all comments, move numbers and tags pairs, leaving only the move list.
-* `--move-strings`: The same as `--move-list`, but encloses each move in quotations marks, and separates them by commas.
+* `--move-list`: Remove all comments, move numbers and tag pairs, leaving only the move list.
+* `--move-strings`: The same as `--move-list`, but encloses each move in quotation marks, and separates them by commas.
 
 # Build
 
