@@ -3,7 +3,7 @@ Remove unnecessary information from [PGN](https://en.wikipedia.org/wiki/Portable
 
 # Usage
 
-## Synposis
+## Synopsis
 ```
 strip-pgn {--strip-comments|--move-list|--move-strings| }
 ```
